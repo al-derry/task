@@ -1,4 +1,4 @@
-@extends('layouts');
+@extends('layouts')
 
 @section('content')
 <table class="table">
@@ -7,7 +7,7 @@
         <th scope="col">#</th>
         <th scope="col">Item Name</th>
         <th scope="col">Item Price</th>
-        <th scope="col">Offer description</th>
+        <th scope="col">Item description</th>
         <th scope="col">Category name</th>
     </tr>
     </thead>
